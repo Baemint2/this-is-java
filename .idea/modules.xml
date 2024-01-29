@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap01/chap01.iml" filepath="$PROJECT_DIR$/chap01/chap01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02/chap02.iml" filepath="$PROJECT_DIR$/chap02/chap02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03/chap03.iml" filepath="$PROJECT_DIR$/chap03/chap03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04/chap04.iml" filepath="$PROJECT_DIR$/chap04/chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05/chap05.iml" filepath="$PROJECT_DIR$/chap05/chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap06/chap06.iml" filepath="$PROJECT_DIR$/chap06/chap06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap08/chap08.iml" filepath="$PROJECT_DIR$/chap08/chap08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap09/chap09.iml" filepath="$PROJECT_DIR$/chap09/chap09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10/chap10.iml" filepath="$PROJECT_DIR$/chap10/chap10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11/chap11.iml" filepath="$PROJECT_DIR$/chap11/chap11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12/chap12.iml" filepath="$PROJECT_DIR$/chap12/chap12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13/chap13.iml" filepath="$PROJECT_DIR$/chap13/chap13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14/chap14.iml" filepath="$PROJECT_DIR$/chap14/chap14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap15/chap15.iml" filepath="$PROJECT_DIR$/chap15/chap15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap16/chap16.iml" filepath="$PROJECT_DIR$/chap16/chap16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap17/chap17.iml" filepath="$PROJECT_DIR$/chap17/chap17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap18/chap18.iml" filepath="$PROJECT_DIR$/chap18/chap18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap19/chap19.iml" filepath="$PROJECT_DIR$/chap19/chap19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thisisjava-sourcefile.iml" filepath="$PROJECT_DIR$/.idea/thisisjava-sourcefile.iml" />
+    </modules>
+  </component>
+</project>
